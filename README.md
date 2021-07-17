@@ -44,4 +44,4 @@ and install this driver https://github.com/chris1111/Wireless-USB-Big-Sur-Adapte
 
 ## Generate a new Smbios
 
-Open OPENCORE CONFIGURATOR open platformInfo open and generate a new SMBIOS
+Open OPENCORE CONFIGURATOR open platformInfo and generate a new SMBIOS
