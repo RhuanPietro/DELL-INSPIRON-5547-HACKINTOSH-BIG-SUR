@@ -41,3 +41,7 @@ Sleep / Wake
 
 To use WiFi you must buy an adapter from tp link TL-WN725N https://www.tp-link.com/us/home-networking/adapter/tl-wn725n/ 
 and install this driver https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
+
+## Generate a new Smbios
+
+Open OPENCORE CONFIGURATOR open platformInfo open and generate a new SMBIOS
