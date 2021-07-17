@@ -1,6 +1,8 @@
 # DELL-INSPIRON-5547-HACKINTOSH-BIG-SUR
 ![Foto](https://github.com/RhuanPietro/DELL-INSPIRON-5547-HACKINTOSH-BIG-SUR/blob/main/Sem%20Ti%CC%81tulo.png)
 # Specifications
+Opencore Bootloader
+
 Intel (R) Core (TM) i5-4210U 
 
 Ethernet Realtek RTL 8106E
