@@ -3,8 +3,6 @@
 # Specifications
 Intel (R) Core (TM) i5-4210U 
 
-Dell Wireless 1707 Card (802.11BGN + Bluetooth 4.0, 2.4 GHz)Dell Wireless 1707 Card (802.11BGN + Bluetooth 4.0, 2.4 GHz)
-
 Ethernet Realtek RTL 8106E
 
 Intel HD4400
